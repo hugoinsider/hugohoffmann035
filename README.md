@@ -1,4 +1,4 @@
-![github-hero](https://user-images.githubusercontent.com/450319/116597645-29332080-a926-11eb-95e2-65ea39420124.jpg)
+![github-hero](https://raw.githubusercontent.com/hugohoffmann035/hugohoffmann035/main/Frame%201.png)
 
 <!--
 **hugohoffmann035/hugohoffmann035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

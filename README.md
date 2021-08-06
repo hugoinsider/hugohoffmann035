@@ -1,4 +1,4 @@
-### Hi there 👋
+![github-hero](https://user-images.githubusercontent.com/450319/116597645-29332080-a926-11eb-95e2-65ea39420124.jpg)
 
 <!--
 **hugohoffmann035/hugohoffmann035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,25 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://github.com/hugohoffmann035?tab=followers">
+    <img src="https://img.shields.io/github/followers/satansdeer?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/hugohoffmann035">
+    <img src="https://img.shields.io/twitter/follow/ivanov_dev?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+
+### Hi there 👋
+
+My name is Maksim and I make YouTube videos, courses and programming tutorials.
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hugohoffmann035&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hugohoffmann035&theme=tokyonight" />
+</p>
+

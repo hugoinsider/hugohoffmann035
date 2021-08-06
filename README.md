@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/hugohoffmann035?tab=followers">
-    <img src="https://img.shields.io/github/followers/satansdeer?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/hugohoffmann035?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/hugohoffmann035">
-    <img src="https://img.shields.io/twitter/follow/ivanov_dev?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/hugohoffmann035?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 

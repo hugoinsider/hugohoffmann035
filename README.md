@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-My name is Maksim and I make YouTube videos, courses and programming tutorials.
+my name is hugo, i'm passionate about technology and software development, i'm the creator of hoffby, my technology company, i like to contribute to the community, so if you have a project, send an email
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hugohoffmann035&show_icons=true&theme=tokyonight" />
